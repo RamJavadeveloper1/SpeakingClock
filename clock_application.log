@@ -1,0 +1,63 @@
+2023-01-04 12:30:36,762 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Starting SpeakingClockDemoApplication using Java 17.0.5 with PID 8780 (D:\eclipse-workspace-12-2022\SpeakingClockDemo\target\classes started by Ramkishor.Gautam in D:\eclipse-workspace-12-2022\SpeakingClockDemo)
+2023-01-04 12:30:36,765 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-04 12:30:37,370 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8083 (http)
+2023-01-04 12:30:37,378 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-01-04 12:30:37,388 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-04 12:30:37,452 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-01-04 12:30:37,453 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 655 ms
+2023-01-04 12:30:37,720 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8083 (http) with context path ''
+2023-01-04 12:30:37,728 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Started SpeakingClockDemoApplication in 1.291 seconds (process running for 1.822)
+2023-01-04 12:31:44,827 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8083-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-04 12:31:44,828 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8083-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-01-04 12:31:44,828 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8083-exec-1] Completed initialization in 0 ms
+2023-01-04 12:32:22,358 [INFO] com.speaking.clock.controller.ClockController [http-nio-8083-exec-3] ClockController :: called getTimetOnTextFormateByInputValue hour: 12 minutes : 34
+2023-01-04 12:32:22,358 [INFO] com.speaking.clock.service.impl.ClockService [http-nio-8083-exec-3] ClockService::  called getCurrentTimeOnTextFormate
+2023-01-04 12:32:22,358 [INFO] com.speaking.clock.service.impl.ClockService [http-nio-8083-exec-3] ClockService::  called DigitToWordConverter by function call getCurrentTimeOnTextFormate
+2023-01-04 12:32:22,359 [INFO] com.speaking.clock.service.impl.ClockService [http-nio-8083-exec-3] ClockService::  called DigitToWordConverter by function call getCurrentTimeOnTextFormate
+2023-01-04 12:34:04,594 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(11)-127.0.0.1] Application shutdown requested.
+2023-01-04 12:34:04,610 [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(11)-127.0.0.1] Stopping service [Tomcat]
+2023-01-04 12:34:04,611 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(11)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-04 12:34:11,722 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Starting SpeakingClockDemoApplication using Java 17.0.5 with PID 25136 (D:\eclipse-workspace-12-2022\SpeakingClockDemo\target\classes started by Ramkishor.Gautam in D:\eclipse-workspace-12-2022\SpeakingClockDemo)
+2023-01-04 12:34:11,724 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-04 12:34:12,318 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8083 (http)
+2023-01-04 12:34:12,325 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-01-04 12:34:12,326 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-04 12:34:12,391 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-01-04 12:34:12,391 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 634 ms
+2023-01-04 12:34:12,637 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8083 (http) with context path ''
+2023-01-04 12:34:12,645 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Started SpeakingClockDemoApplication in 1.242 seconds (process running for 1.762)
+2023-01-04 12:34:23,094 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8083-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-04 12:34:23,095 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8083-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-01-04 12:34:23,095 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8083-exec-1] Completed initialization in 0 ms
+2023-01-04 12:35:07,846 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(10)-127.0.0.1] Application shutdown requested.
+2023-01-04 12:35:07,860 [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(10)-127.0.0.1] Stopping service [Tomcat]
+2023-01-04 12:35:07,861 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(10)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-04 12:35:09,398 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Starting SpeakingClockDemoApplication using Java 17.0.5 with PID 16908 (D:\eclipse-workspace-12-2022\SpeakingClockDemo\target\classes started by Ramkishor.Gautam in D:\eclipse-workspace-12-2022\SpeakingClockDemo)
+2023-01-04 12:35:09,400 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-04 12:35:10,017 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8083 (http)
+2023-01-04 12:35:10,025 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-01-04 12:35:10,026 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-04 12:35:10,098 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-01-04 12:35:10,098 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 665 ms
+2023-01-04 12:35:10,352 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8083 (http) with context path ''
+2023-01-04 12:35:10,360 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Started SpeakingClockDemoApplication in 1.281 seconds (process running for 1.805)
+2023-01-04 12:35:32,790 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8083-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-04 12:35:32,790 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8083-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-01-04 12:35:32,791 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8083-exec-1] Completed initialization in 0 ms
+2023-01-04 12:35:32,814 [WARN] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8083-exec-1] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'time' for method parameter type String is not present]
+2023-01-04 12:35:39,861 [INFO] com.speaking.clock.controller.ClockController [http-nio-8083-exec-4] ClockController :: called getTimetOnTextFormateByInputValue hour: 12 minutes : 34
+2023-01-04 12:35:39,862 [INFO] com.speaking.clock.service.impl.ClockService [http-nio-8083-exec-4] ClockService::  called getCurrentTimeOnTextFormate
+2023-01-04 12:35:39,862 [INFO] com.speaking.clock.service.impl.ClockService [http-nio-8083-exec-4] ClockService::  called DigitToWordConverter by function call getCurrentTimeOnTextFormate
+2023-01-04 12:35:39,862 [INFO] com.speaking.clock.service.impl.ClockService [http-nio-8083-exec-4] ClockService::  called DigitToWordConverter by function call getCurrentTimeOnTextFormate
+2023-01-04 12:36:44,380 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(11)-127.0.0.1] Application shutdown requested.
+2023-01-04 12:36:44,395 [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(11)-127.0.0.1] Stopping service [Tomcat]
+2023-01-04 12:36:44,396 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(11)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-04 12:36:46,077 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Starting SpeakingClockDemoApplication using Java 17.0.5 with PID 16548 (D:\eclipse-workspace-12-2022\SpeakingClockDemo\target\classes started by Ramkishor.Gautam in D:\eclipse-workspace-12-2022\SpeakingClockDemo)
+2023-01-04 12:36:46,080 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-04 12:36:46,668 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8083 (http)
+2023-01-04 12:36:46,676 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-01-04 12:36:46,676 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-04 12:36:46,742 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-01-04 12:36:46,743 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 632 ms
+2023-01-04 12:36:47,010 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8083 (http) with context path ''
+2023-01-04 12:36:47,019 [INFO] com.speaking.clock.SpeakingClockDemoApplication [main] Started SpeakingClockDemoApplication in 1.259 seconds (process running for 1.791)
